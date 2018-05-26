@@ -11,9 +11,6 @@ At the end, Our aims to integrate all into a unified blockchain ecosystem, which
 * **Platform**: Ethereum
 * **Initial Supply**: 98,000,000 EPAY
 * **Maximum Total Supply**: 98,000,000 EPAY
-* **Minimum Coin Age**: 10 Days
-* **Maximum Coin Age**: 30 Days
-* **PoS Annual Interest**: 10%
 
 ## Links
 **[EthereumPay Website](https://www.etherpaywallet.com/)** --- **[Whitepaper](https://www.etherpaywallet.com/)** --- **[Twitter](https://twitter.com/EthereumPay)** --- **[Bitcointalk](https://bitcointalk.org/index.php?topic=3195371)** --- **[Medium](https://medium.com/@ethereumpay.wallet)** --- **[Telegram](https://t.me/joinchat/IIX_Dg4k7DlHbmRCSICMig)**
